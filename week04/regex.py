@@ -1,6 +1,5 @@
 import re
 
-
 def find_names(line):
     pattern = r"[A-Z][^. ]+ [A-Z][^ ]+"
     result = re.findall(pattern, line)
