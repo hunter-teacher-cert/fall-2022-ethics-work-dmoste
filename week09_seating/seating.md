@@ -1,3 +1,3 @@
-MY algortihm would be to seat all the economy plus people first, then seat the groups in descending order of size. This would mean first seat the largest group togerther, then continue down until you are only seating single people.
+My algortihm would be to seat all the economy plus people first, then seat the groups in descending order of size. This would mean first seat the largest group togerther, then continue down until you are only seating single people.
 
 This algorithm does a good job of ensuring that large families sit together. It does however fail to account for other needs such as disabilities. That could be taken into accou ntthough by seating them after economy plus.
