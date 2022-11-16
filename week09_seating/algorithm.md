@@ -1,0 +1,3 @@
+The algorithm that was attempted was to sort the economy tickets by group size and start filling the plane from largest group to smallest group. This would help equity by allowing famillies to sit together and leaves gaps for smaller parties to be filled at the end.
+
+The algorithm is not fully complete, but with more time the seating could be done. As of now, the dictionary has been converted into a sorted list be party size and the seating algorithm has begun. The hardest part of this, and where more time is needed, is finding seats that are together.
