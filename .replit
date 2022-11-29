@@ -1,2 +1,2 @@
-language="python"
-run="python week04/regex.py"
+language="bash"
+run="cd testing; javac *.java; java GFG"
